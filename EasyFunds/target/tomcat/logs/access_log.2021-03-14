@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [14/Mar/2021:14:58:50 +0530] "GET /spring-mvc/login HTTP/1.1" 200 3006 http-bio-8080-exec-2 10584
+0:0:0:0:0:0:0:1 - - [14/Mar/2021:14:58:50 +0530] "GET /resources/CSS/style.css;jsessionid=7D5DAD64AF2BF7D3D18600B67BE287BF HTTP/1.1" 200 2485 http-bio-8080-exec-3 202
+0:0:0:0:0:0:0:1 - - [14/Mar/2021:14:58:50 +0530] "GET /resources/CSS/bootstrap.min.css HTTP/1.1" 200 155758 http-bio-8080-exec-4 241
+0:0:0:0:0:0:0:1 - - [14/Mar/2021:14:58:51 +0530] "GET /resources/JS/Script.js;jsessionid=7D5DAD64AF2BF7D3D18600B67BE287BF HTTP/1.1" 200 259 http-bio-8080-exec-5 2
+0:0:0:0:0:0:0:1 - - [14/Mar/2021:14:58:51 +0530] "GET /resources/JS/jquery.min.js;jsessionid=7D5DAD64AF2BF7D3D18600B67BE287BF HTTP/1.1" 200 299459 http-bio-8080-exec-6 102
+0:0:0:0:0:0:0:1 - - [14/Mar/2021:14:58:52 +0530] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-8 3
