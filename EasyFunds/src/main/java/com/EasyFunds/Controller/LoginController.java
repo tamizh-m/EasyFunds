@@ -17,6 +17,7 @@ public class LoginController {
 	@RequestMapping(value = "/login")	
 public String showLogin(ModelMap model) {
 		model.addAttribute("LoginUser", new User());
+		System.out.println("I have added a print statement");
 	return "login";
 	
 }
