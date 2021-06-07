@@ -18,6 +18,7 @@ public class LoginController {
 public String showLogin(ModelMap model) {
 		model.addAttribute("LoginUser", new User());
 		System.out.println("I have added a print statement");
+		System.out.println("new branch");
 	return "login";
 	
 }
