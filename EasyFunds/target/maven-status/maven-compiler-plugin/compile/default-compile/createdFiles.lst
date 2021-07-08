@@ -1,0 +1,5 @@
+com\EasyFunds\Model\User.class
+com\EasyFunds\Dao\RegistrationDao.class
+com\EasyFunds\Dao\RegistrationDaoImpl.class
+com\EasyFunds\Controller\SignupController.class
+com\EasyFunds\Controller\LoginController.class

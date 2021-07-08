@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="EasyFunds/src/main/java"/>
+	<classpathentry kind="src" path="EasyFunds/target/tomcat/work/Tomcat/localhost/_"/>
+	<classpathentry kind="lib" path="EasyFunds/target/in28Minutes-springmvc-0.0.1-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="EasyFunds/target/in28Minutes-springmvc-0.0.1-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="EasyFunds/target/in28Minutes-springmvc-0.0.1-SNAPSHOT/WEB-INF/lib/spring-aop-4.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="EasyFunds/target/in28Minutes-springmvc-0.0.1-SNAPSHOT/WEB-INF/lib/spring-beans-4.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="EasyFunds/target/in28Minutes-springmvc-0.0.1-SNAPSHOT/WEB-INF/lib/spring-context-4.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="EasyFunds/target/in28Minutes-springmvc-0.0.1-SNAPSHOT/WEB-INF/lib/spring-core-4.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="EasyFunds/target/in28Minutes-springmvc-0.0.1-SNAPSHOT/WEB-INF/lib/spring-expression-4.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="EasyFunds/target/in28Minutes-springmvc-0.0.1-SNAPSHOT/WEB-INF/lib/spring-web-4.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="EasyFunds/target/in28Minutes-springmvc-0.0.1-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.2.3.RELEASE.jar"/>
+	<classpathentry kind="output" path="EasyFunds/target/classes"/>
+</classpath>
