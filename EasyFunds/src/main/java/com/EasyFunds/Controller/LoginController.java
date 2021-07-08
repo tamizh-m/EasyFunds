@@ -19,6 +19,7 @@ public String showLogin(ModelMap model) {
 		model.addAttribute("LoginUser", new User());
 		System.out.println("Changed again print statement");
 		System.out.println("new branch");
+		System.out.println("feature1");
 	return "login";
 	
 }
