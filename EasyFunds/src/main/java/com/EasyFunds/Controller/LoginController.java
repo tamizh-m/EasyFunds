@@ -17,7 +17,7 @@ public class LoginController {
 	@RequestMapping(value = "/login")	
 public String showLogin(ModelMap model) {
 		model.addAttribute("LoginUser", new User());
-		System.out.println("Deleted print statement");
+		
 		System.out.println("new branch");
 	return "login";
 	
